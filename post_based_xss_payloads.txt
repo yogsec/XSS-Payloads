@@ -1,0 +1,329 @@
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>
+
+<input type="text" value="<script>alert('XSS')</script>">
+<textarea><script>alert('XSS')</script></textarea>
+<form><button formaction="javascript:alert('XSS')">Click me</button></form>
+<form><input type="hidden" name="xss" value="<script>alert('XSS')</script>"></form>
+<input type="text" onfocus="alert('XSS')" value="Focus me">
+<input type="button" value="Click me" onclick="alert('XSS')">
+<form action="https://example.com/post" method="POST"><input type="text" value="<script>alert('XSS')</script>"></form>
+<input type="text" value='"><script>alert(1)</script>'>
+<input type="text" value='"><img src=x onerror=alert(1)>'>
+<form><input name="xss" value="<img src=x onerror=alert('XSS')>"></form>

